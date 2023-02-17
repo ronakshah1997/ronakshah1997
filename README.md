@@ -1,4 +1,4 @@
-### Hi there👋 My name is Ronak Shah and I am an aspiring Business Analyst professional and a recent graduate of UCLA. My experience so far has been within the supply chain analytics space due to my passion for improving business processes from a data-driven perspective. I am looking to upgrade on my skills everyday and this will be a log of some of my personal projects. I am experienced in Excel and PowerBI but am actively working on Python and SQL skills.
+### Hi there👋 My name is Ronak Shah and I am an aspiring Business Analyst professional and a recent graduate of UCLA. My experience so far has been within the supply chain analytics space due to my passion for improving business processes from a data-driven perspective. I am looking to upgrade on my skills everyday and this will be a log of some of my personal projects. I am experienced in Excel and PowerBI but am actively working on Python and SQL skills. Originally from Singapore but currently residing in Los Angeles, CA :) 
 
 <!--
 **ronakshah1997/ronakshah1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
